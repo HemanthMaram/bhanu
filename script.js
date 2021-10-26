@@ -19,7 +19,7 @@ bscreen = ()=>{
       var disp1 =`<div id='giftbox1'> 
 
       <h3> Happy Birthday</h3>
-      <h2> Ramya Ji &#128512</h2>
+      <h2> Bava &#128512</h2>
       <p> Wishing you all the success</p>
       
      
