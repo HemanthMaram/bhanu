@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>Birthday</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <div class="container">
+      <div class="crater1"> </div>
+      <div class="crater1"> </div>
+      <div class="crater1"> </div>
+   </div>
+
+   <canvas id="canvas"></canvas>
+   <div id="sea">
+
+   </div>
+   <div id="beach">
+      <img src="https://thumbs.dreamstime.com/b/happy-kids-silhouettes-jumping-beach-23605884.jpg" alt="jumping-beach">
+   </div>
+
+   <div class="icons">
+      <div class="rows">
+         <span>H</span>
+         <span>a</span>
+         <span>p</span>
+         <span>p</span>
+         <span>y</span>
+      </div>
+      <div class="rows">
+         <span>B</span>
+         <span>i</span>
+         <span>r</span>
+         <span>t</span>
+         <span>h</span>
+         <span>d</span>
+         <span>a</span>
+         <span>y</span>
+
+      </div>
+      <div class="rows">
+         <span>R</span>
+         <span>a</span>
+         <span>m</span>
+         <span>y</span>
+         <span>a</span>
+         <span>&nbsp;</span>
+         <span>J</span>
+         <span>i</span>
+         
+
+      </div>
+   </div>
+    
+  
+</body>
+<script src="./script.js"></script>
+</html>
